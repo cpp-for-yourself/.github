@@ -4,6 +4,7 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dcode_for_yourself%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/code_for_yourself)
 [![Donate][img-paypal]][donate-paypal]
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRm39hwBxsX-8yj2xs3OJjQ?style=for-the-badge)
+![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cpp-for-yourself&color=55acb7&style=for-the-badge&logo=Github)
 
 In this organization I'm going to keep all the slides, code and discussions that are related to the [C++ for Yourself](https://youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) course on YouTube 📺
 
@@ -31,6 +32,8 @@ Creating such a course from scratch is an enourmous undertaking. Even considerin
 - Supporting me through [GitHub sponsors](https://github.com/sponsors/niosus)
 - Supporting me through [Patreon](https://patreon.com/code_for_yourself?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator)
 - Making a one-off donation through [Paypal][donate-paypal]
+
+🇺🇦 Note that at least until the russian war against Ukraine is over, all your donations will be used to support Ukraine protecting itself from the russian aggression.
 
 
 [img-paypal]: https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge
