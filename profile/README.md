@@ -33,8 +33,7 @@ Creating such a course from scratch is an enourmous undertaking. Even considerin
 - Supporting me through [Patreon](https://patreon.com/code_for_yourself?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator)
 - Making a one-off donation through [Paypal][donate-paypal]
 
-![qrcode](https://user-images.githubusercontent.com/1893598/189550908-91d08893-32cf-4709-8ede-2303ffbf7b8e.png)
-
+<img src="https://user-images.githubusercontent.com/1893598/189550908-91d08893-32cf-4709-8ede-2303ffbf7b8e.png" width="300">
 
 🇺🇦 Note that at least until the russian war against Ukraine is over, all your donations will be used to support Ukraine protecting itself from the russian aggression.
 
