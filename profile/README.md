@@ -1,9 +1,9 @@
 # Welcome to the C++ for Yourself course! 👋
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/niosus?color=orange&style=for-the-badge)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/niosus?color=orange&style=for-the-badge)](https://github.com/sponsors/niosus)
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dcode_for_yourself%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/code_for_yourself)
 [![Donate][img-paypal]][donate-paypal]
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRm39hwBxsX-8yj2xs3OJjQ?style=for-the-badge)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRm39hwBxsX-8yj2xs3OJjQ?style=for-the-badge)](https://www.youtube.com/code-for-yourself)
 ![Visits Badge](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=cpp-for-yourself&color=55acb7&style=for-the-badge&logo=Github)
 
 In this organization I'm going to keep all the slides, code and discussions that are related to the [C++ for Yourself](https://youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) course on YouTube 📺
