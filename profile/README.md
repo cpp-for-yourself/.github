@@ -14,10 +14,10 @@ During the videos I use slides to guide me through whatever I want to say. All o
 You will also find the tasks that you would then do as your **homeworks** there. They are mixed in with the slides in the order in which they have to be done.
 
 
-## `1` Fork the [homeworks template repo](https://github.com/cpp-for-yourself/homeworks)
+## `1` Create your own homework repo from the [homeworks template repo](https://github.com/cpp-for-yourself/homeworks)
 If you want to maximize your learnings from this course, you should do the homeworks. I will announce each homework in the videos of the course and you can find the precise tasks in the [supplementary-materials](https://github.com/cpp-for-yourself/supplementary-materials) repository.
 
-To submit the homeworks, you'll have to **fork** the [homeworks](https://github.com/cpp-for-yourself/homeworks) repository. The instructions are in the readme of that project.
+To submit the homeworks, you'll have to use the template in the the [homeworks](https://github.com/cpp-for-yourself/homeworks) repository by clicking the  <kbd>Use this template</kbd> button. The precise instructions are in the readme of that project.
 
 I'm using a custom python homework checker (also found in this organization) combined with GitHub actions to check the homeworks.
 
