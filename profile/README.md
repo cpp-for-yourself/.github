@@ -1,7 +1,6 @@
 # Welcome to the [C++ for Yourself](https://youtube.com/playlist?list=PLwhKb0RIaIS1sJkejUmWj-0lk7v_xgCuT) course! 👋
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/niosus?color=orange&style=for-the-badge)](https://github.com/sponsors/niosus)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dcode_for_yourself%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/code_for_yourself)
 [![Donate][img-paypal]][donate-paypal]
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRm39hwBxsX-8yj2xs3OJjQ?style=for-the-badge)](https://www.youtube.com/code-for-yourself)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=code-for-yourself%2Fcode-for-yourself&labelColor=%23697689&countColor=%23263759)
