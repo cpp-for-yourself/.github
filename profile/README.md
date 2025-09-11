@@ -20,19 +20,26 @@ To submit the homeworks, one can use a template in the the [homeworks](https://g
 
 I'm using a custom python homework checker script (also found in this organization) combined with GitHub actions to check the homeworks.
 
-## `2` Engage in [discussions](https://github.com/orgs/cpp-for-yourself/discussions)!
+## `2` Spread the word and support this work 
 
-As this channel takes off please interact with the community!
-- If you have any questions or comments about a video - comment under the video
-- Should it grow into a deeper discussion, please head to the [discussions](https://github.com/orgs/cpp-for-yourself/discussions) of this org and either comment in an existing topic or start a new one
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/niosus?style=for-the-badge&logo=github&label=Sponsor%20on%20github)](https://github.com/sponsors/niosus)
+[![Audible trial](https://img.shields.io/badge/Audible_free_trial-orange?style=for-the-badge&logo=audible&logoColor=white&logoSize=auto&link=https%3A%2F%2Fwww.audibletrial.com%2FCodeForYourself)](https://www.audibletrial.com/CodeForYourself)
+[![Amazon affiliate links](https://img.shields.io/badge/amazon_affiliate_links-orange?style=for-the-badge&logo=amazon&logoColor=white&logoSize=auto&color=black)](https://github.com/cpp-for-yourself/sponsor/blob/main/amazon.md)
 
-## `3` Spread the word and support this work
-Creating such a course from scratch is quite hard (harder than I planned, as always). Even considering that I'm building on top of the course I designed some time ago, it still takes most of my evenings and weekends to deliver new content. Not everybody has an opportunity to support such undertakings, but if you are in the position where you _can_, please show your appreciation:
-- Subscribe to the YouYube channel: [@CodeForYourself](https://www.youtube.com/c/Codeforyourself)
-- Support this work through [GitHub sponsors](https://github.com/sponsors/niosus)
-- Making a one-off donation through [Paypal][donate-paypal]
+> **How much is it worth to _you_ that this course exists?**
 
-<img src="https://user-images.githubusercontent.com/1893598/189550908-91d08893-32cf-4709-8ede-2303ffbf7b8e.png" width="300">
+Please remember that there is a human behind all of this work. 
+I write scripts, create animations, record and edit videos at night after a full-time work day. It is at times hard.
+But _you_ can make it easier. Here is what you can do:
+
+- 💶 Become a [**sponsor on GitHub**](https://github.com/sponsors/niosus)!
+- 💸 Can't support monetarily?
+  + 👍 **Like** the videos and **watch them to the end**!
+  + 💬 **Leave comments** on YouTube!
+  + 📢 **Spread the word** among your friends!
+- 🤬 Don't like something? 🗣️ **Talk to me about it!** I am always eager to improve.
+  + Comment on YouTube under the videos - I try to answer _every_ comment.
+  + Engage in [discussions](https://github.com/orgs/cpp-for-yourself/discussions) here on GitHub.
 
 🇺🇦 Note that at least until the russian war against Ukraine is over, all your donations will be used to support Ukraine protecting itself from the russian aggression.
 
